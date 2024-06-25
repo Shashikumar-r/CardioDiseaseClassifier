@@ -62,7 +62,6 @@ To use the trained model to make predictions on new data, run:
 ```
 Cardio-Disease-Classification.ipynb
 ```
-Replace `<path_to_input_data>` with the path to a CSV file containing new instances to classify.
 
 ## Model Selection 🧠
 
@@ -82,12 +81,8 @@ The project explores different machine learning algorithms such as Random Forest
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Authors 🧑‍💻
+## Author 🧑‍💻
 
-- John Doe
-- Jane Smith
+- Shashikumar R
 
-## Acknowledgments 🙏
 
-- The authors acknowledge [any specific individuals or organizations you want to credit]
-- Inspiration from [related projects or papers]
